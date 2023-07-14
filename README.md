@@ -8,14 +8,15 @@ Este trabalho tem como objetivo apresentar o desenvolvimento de um projeto de au
 
 ## Integrantes
 
-| Nome | N° USP |
-|-|-|-|
-| Felipe Eduardo Dias Tavares | 13827497 |
-| Julia de Almeida Carvalho | 13713184 |
-| Kaylaine Bessa da Silva | 14747506 |
-| Giovanna Lopes de Andrade| 14574772 |
-| Letícia Pinheiro Ferreira | 12683381 |
+Peço desculpas pelo equívoco. Aqui está a tabela corrigida:
 
+| Nome                        | N° USP    |
+|-----------------------------|-----------|
+| Felipe Eduardo Dias Tavares | 13827497  |
+| Julia de Almeida Carvalho   | 13713184  |
+| Kaylaine Bessa da Silva     | 14747506  |
+| Giovanna Lopes de Andrade   | 14574772  |
+| Letícia Pinheiro Ferreira   | 12683381  |
 
 
 

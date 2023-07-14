@@ -26,7 +26,7 @@ Este trabalho tem como objetivo apresentar o desenvolvimento de um projeto de au
 ## Especificações dos componentes
 - Protoboard: Placa de circuito impresso com orifícios para inserir e interconectar componentes eletrônicos.
 
--ESP32: Microcontrolador com conectividade Wi-Fi e Bluetooth integrada. 
+- ESP32: Microcontrolador com conectividade Wi-Fi e Bluetooth integrada. 
 
 - Jumper: Fios condutores utilizados para fazer conexões entre os componentes na protoboard ou em circuitos eletrônicos. 
 

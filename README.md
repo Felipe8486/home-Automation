@@ -11,25 +11,34 @@ Este trabalho tem como objetivo apresentar o desenvolvimento de um projeto de au
 ## Tabela de componentes
 | Componentes | Quantidade | Valor    |
 |-------------|------------|----------|
-| Componente1 | 5          | R$10,00  |
-| Componente2 | 8          | R$15,00  |
-| Componente3 | 3          | R$20,00  |
-| Componente4 | 6          | R$12,00  |
-| Componente5 | 2          | R$18,00  |
-| Componente6 | 4          | R$25,00  |
-| Componente7 | 7          | R$8,00   |
-| Componente8 | 9          | R$14,00  |
-| Componente9 | 1          | R$30,00  |
-| Componente10| 5          | R$10,00  |
-| Componente11| 8          | R$15,00  |
-| Componente12| 3          | R$20,00  |
-| Componente13| 6          | R$12,00  |
-| Componente14| 2          | R$18,00  |
-| Componente15| 4          | R$25,00  |
+| Protoboard | 1         | R$10,00  |
+| ESP32 | 1         | R$15,00  |
+| Jumpeer | 8          | R$20,00  |
+| Cabo USB | 1          | R$12,00  |
+|  | 2          | R$18,00  |
+| Suporte pilha| 8          | R$25,00  |
+| Relé | 4          | R$8,00   |
+| Alexa | 1          | R$14,00  |
+| Extensão | 1          | R$30,00  |
+| Luminária| 1          | R$10,00  |
+
 
 ## Especificações dos componentes
+- Protoboard: Placa de circuito impresso com orifícios para inserir e interconectar componentes eletrônicos.
 
+-ESP32: Microcontrolador com conectividade Wi-Fi e Bluetooth integrada. 
 
+-Jumper: Fios condutores utilizados para fazer conexões entre os componentes na protoboard ou em circuitos eletrônicos. 
+
+-Cabo USB: Cabo usado para conectar dispositivos eletrônicos, como o ESP32, a um computador ou fonte de alimentação. Ele permite a transferência de dados e a alimentação dos dispositivos.
+
+-Suporte de pilha: Suporte físico para acomodar pilhas ou baterias em um circuito eletrônico.
+
+-Relé: Dispositivo eletromecânico que funciona como um interruptor controlado por um sinal elétrico. 
+
+-Alexa: Assistente de voz utlizado para realizar várias tarefas, como reproduzir música, fornecer informações e controlar dispositivos domésticos inteligentes. 
+
+-Extensão: Tomada elétrica múltipla que permite conectar vários dispositivos a uma única tomada, foi utilizada para ligar o microcontrolador.
 
 ## Integrantes
 

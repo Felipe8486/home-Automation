@@ -6,8 +6,6 @@ Este trabalho tem como objetivo apresentar o desenvolvimento de um projeto de au
 
 ## Diagrama do circuito no simulador Tinkercad
 
-## Imagens do circuito
-
 ## Tabela de componentes
 | Componentes | Quantidade | Valor    |
 |-------------|------------|----------|

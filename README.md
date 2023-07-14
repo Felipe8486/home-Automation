@@ -15,7 +15,6 @@ Este trabalho tem como objetivo apresentar o desenvolvimento de um projeto de au
 | ESP32 | 1         | R$15,00  |
 | Jumpeer | 8          | R$20,00  |
 | Cabo USB | 1          | R$12,00  |
-|  | 2          | R$18,00  |
 | Suporte pilha| 8          | R$25,00  |
 | Relé | 4          | R$8,00   |
 | Alexa | 1          | R$14,00  |
@@ -39,6 +38,9 @@ Este trabalho tem como objetivo apresentar o desenvolvimento de um projeto de au
 - Alexa: Assistente de voz utlizado para realizar várias tarefas, como reproduzir música, fornecer informações e controlar dispositivos domésticos inteligentes. 
 
 - Extensão: Tomada elétrica múltipla que permite conectar vários dispositivos a uma única tomada, foi utilizada para ligar o microcontrolador.
+
+  ## Foto do circuito
+  ![WhatsApp Image 2023-07-14 at 16 11 07](https://github.com/Felipe8486/home-Automation/assets/129186293/33746a9c-474c-47bb-b3f3-21d0748812a2)
 
 ## Integrantes
 

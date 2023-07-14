@@ -28,17 +28,17 @@ Este trabalho tem como objetivo apresentar o desenvolvimento de um projeto de au
 
 -ESP32: Microcontrolador com conectividade Wi-Fi e Bluetooth integrada. 
 
--Jumper: Fios condutores utilizados para fazer conexões entre os componentes na protoboard ou em circuitos eletrônicos. 
+- Jumper: Fios condutores utilizados para fazer conexões entre os componentes na protoboard ou em circuitos eletrônicos. 
 
--Cabo USB: Cabo usado para conectar dispositivos eletrônicos, como o ESP32, a um computador ou fonte de alimentação. Ele permite a transferência de dados e a alimentação dos dispositivos.
+- Cabo USB: Cabo usado para conectar dispositivos eletrônicos, como o ESP32, a um computador ou fonte de alimentação. Ele permite a transferência de dados e a alimentação dos dispositivos.
 
--Suporte de pilha: Suporte físico para acomodar pilhas ou baterias em um circuito eletrônico.
+- Suporte de pilha: Suporte físico para acomodar pilhas ou baterias em um circuito eletrônico.
 
--Relé: Dispositivo eletromecânico que funciona como um interruptor controlado por um sinal elétrico. 
+- Relé: Dispositivo eletromecânico que funciona como um interruptor controlado por um sinal elétrico. 
 
--Alexa: Assistente de voz utlizado para realizar várias tarefas, como reproduzir música, fornecer informações e controlar dispositivos domésticos inteligentes. 
+- Alexa: Assistente de voz utlizado para realizar várias tarefas, como reproduzir música, fornecer informações e controlar dispositivos domésticos inteligentes. 
 
--Extensão: Tomada elétrica múltipla que permite conectar vários dispositivos a uma única tomada, foi utilizada para ligar o microcontrolador.
+- Extensão: Tomada elétrica múltipla que permite conectar vários dispositivos a uma única tomada, foi utilizada para ligar o microcontrolador.
 
 ## Integrantes
 

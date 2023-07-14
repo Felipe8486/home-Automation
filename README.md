@@ -9,15 +9,14 @@ Este trabalho tem como objetivo apresentar o desenvolvimento de um projeto de au
 ## Tabela de componentes
 | Componentes | Quantidade | Valor    |
 |-------------|------------|----------|
-| Protoboard | 1         | R$10,00  |
-| ESP32 | 1         | R$15,00  |
-| Jumpeer | 8          | R$20,00  |
-| Cabo USB | 1          | R$12,00  |
-| Suporte pilha| 8          | R$25,00  |
-| Relé | 4          | R$8,00   |
-| Alexa | 1          | R$14,00  |
-| Extensão | 1          | R$30,00  |
-| Luminária| 1          | R$10,00  |
+| Protoboard | 1         | R$20,00  |
+| ESP32 | 1         | R$70,00  |
+| Jumpeer | 8          | R$21,90  |
+| Cabo USB | 1          | R$17,00  |
+| Suporte pilha| 8          | R$13,00  |
+| Relé | 4          | R$19,98   |
+| Alexa | 1          | R$350,00  |
+| Extensão | 1          | R$20,00  |
 
 
 ## Especificações dos componentes
@@ -42,6 +41,7 @@ Este trabalho tem como objetivo apresentar o desenvolvimento de um projeto de au
 
   ## Link dos Vídeos
   Home automation: https://youtu.be/ZVjI-ZR9ZIU
+  Home automation - ventilador conectado na Alexa: https://youtube.com/shorts/M7Z40NGviNY
   
   
 ## Integrantes

@@ -41,6 +41,7 @@ Este trabalho tem como objetivo apresentar o desenvolvimento de um projeto de au
 
   ## Link dos Vídeos
   Home automation: https://youtu.be/ZVjI-ZR9ZIU
+  
   Home automation - ventilador conectado na Alexa: https://youtube.com/shorts/M7Z40NGviNY
   
   

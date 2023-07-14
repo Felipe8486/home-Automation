@@ -7,6 +7,7 @@ Este trabalho tem como objetivo apresentar o desenvolvimento de um projeto de au
 ## Diagrama do circuito no simulador Tinkercad
 
 ## Integrantes
+
 | Nome | N° USP |
 |-|-|-|
 | Felipe Eduardo Dias Tavares | 13827497 |

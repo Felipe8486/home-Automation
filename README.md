@@ -8,8 +8,6 @@ Este trabalho tem como objetivo apresentar o desenvolvimento de um projeto de au
 
 ## Integrantes
 
-Peço desculpas pelo equívoco. Aqui está a tabela corrigida:
-
 | Nome                        | N° USP    |
 |-----------------------------|-----------|
 | Felipe Eduardo Dias Tavares | 13827497  |

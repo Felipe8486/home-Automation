@@ -38,7 +38,7 @@ Este trabalho tem como objetivo apresentar o desenvolvimento de um projeto de au
 
   ## Foto do circuito
   ![WhatsApp Image 2023-07-14 at 16 11 07](https://github.com/Felipe8486/home-Automation/assets/129186293/33746a9c-474c-47bb-b3f3-21d0748812a2)
-  ![WhatsApp Image 2023-07-14 at 16 11 07]((https://github.com/Felipe8486/home-Automation/blob/main/Imagens/Screenshot%202023-07-15%20080355.png))
+  ![WhatsApp Image 2023-07-14 at 16 11 07](https://github.com/Felipe8486/home-Automation/blob/main/Imagens/Screenshot%202023-07-15%20080355.png)
 
   ## Link dos Vídeos
   Home automation: https://youtu.be/ZVjI-ZR9ZIU

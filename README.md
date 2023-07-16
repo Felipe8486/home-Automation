@@ -45,8 +45,17 @@ Este trabalho tem como objetivo apresentar o desenvolvimento de um projeto de au
   Home automation: https://youtu.be/ZVjI-ZR9ZIU
   
   Home automation - ventilador conectado na Alexa: https://youtube.com/shorts/M7Z40NGviNY
+
+  Explicação do projeto:
+  https://www.youtube.com/watch?v=Y15ezYAyZjE
   
+  Fontes externas
+  Tutorial de como conectar alexa no FTTP e mandar mensagens pela alexa:
+  Parte 1: https://www.youtube.com/watch?v=AQ1qCXcqPNU&t=641s
+  Parte 2: https://www.youtube.com/watch?v=hyhbdruoc7o
   
+  Como controlar a ESP 32 pelo WhatsApp usando o Twilio e o ThingESP:
+  https://www.youtube.com/watch?v=4A124GDC8NQ&t=396s
 ## Integrantes
 
 | Nome                        | N° USP    |
